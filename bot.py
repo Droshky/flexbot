@@ -5,6 +5,7 @@ from random import randint
 import tweepy
 import urllib
 import os
+import file_creator
 
 # init of tweepy
 auth = tweepy.OAuthHandler(consumer_key="N2V8HohQGHk95x4YIyPFbMQT0",
@@ -26,10 +27,10 @@ async def on_ready():
     print("-- Connected --")
 
 
-@client.event
-async def on_member_join(member):
-    await client.say("Welcome bitch ass nigga" + str(member))
-
+@client.event(pass_context=True)
+async def on_member_join(ctx, member):
+    await client.send_message(ctx.message.channel,"Welcome bitch ass nigga" + str(member))
+    file_creator.add_user(str(member))
 
 @client.command(pass_context=True)
 async def img(ctx, *args):
@@ -104,6 +105,17 @@ async def info(ctx):
     embed.add_field(name="Invite", value="https://discordapp.com/api/oauth2/authorize?client_id=446705819900182548&permissions=8&redirect_uri=https%3A%2F%2Fdiscordapp.com&response_type=code&scope=identify%20connections%20email%20guilds%20rpc.api%20gdm.join%20guilds.join%20rpc%20messages.read%20webhook.incoming%20rpc.notifications.read%20bot")
 
     await client.send_message(destination=channel, embed=embed)
+
+
+@client.command(pass_context=True)
+async def user_reset(ctx):
+    member_list = []
+    members = ctx.message.server.members
+    file_creator.remove_files() # remove all files in user folder
+    for member in members:
+        member_list.append(str(member.name))
+    file_creator.add_users(member_list)
+
 
 # RUN
 if __name__ == "__main__":
