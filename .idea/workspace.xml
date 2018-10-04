@@ -2,56 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ade6d891-040d-421c-8f8f-e00c5768351f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-BOEN.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-BibleBot.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Bodyslambear.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Chaotic_aF_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Doc-1015.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-FishDicks.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Jacob.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Jimmy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-JoJo 2; Electric Boogaloo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Logan.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-MagiicPants.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Marcello.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Marv.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-MightyMelon.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Mild Bobby Sauce.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Mr.Sleepless.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-NicoMane.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Oktoberfest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-OwO.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Owl Head Sniper.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-P!NK.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Pokécord.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Purpl3_l0G1k.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-REDRRUSSIAN.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Realest Chigga.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Rythm.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Swiff.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-TylerDevAccount.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-UNCY IROH.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-UnbelievaBoat.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-UnicodeUsers.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-UnrL_Poison.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Woody.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-amasa aina.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-bluebuddha74.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-burgerking.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-captain.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-castrated.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-drosh.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-fiona.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-jamie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-kebab.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-og Mudbone.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-reindeergames.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-statutoryraping.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-whsky..txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-𝕕𝕨𝕚𝕤𝕖.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-𝕸𝖊𝖒𝖊.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/file_creator.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_creator.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,8 +17,8 @@
       <file leaf-file-name="file_creator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/file_creator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="1377">
+              <caret line="81" column="42" lean-forward="true" selection-start-line="81" selection-start-column="42" selection-end-line="81" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -75,10 +26,11 @@
       <file leaf-file-name="bot.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="635">
-              <caret line="148" column="33" selection-start-line="148" selection-start-column="33" selection-end-line="148" selection-end-column="33" />
+            <state relative-caret-position="430">
+              <caret line="154" column="75" lean-forward="true" selection-start-line="154" selection-start-column="75" selection-end-line="154" selection-end-column="75" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
+                <element signature="e#3834#3895#0" />
               </folding>
             </state>
           </provider>
@@ -246,13 +198,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2528978" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
       <window_info anchor="bottom" auto_hide="true" id="Event Log" order="7" sideWeight="0.50052685" side_tool="true" type="SLIDING" weight="0.33442265" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32897604" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32897604" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" weight="0.33442265" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.2657952" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.33442265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -271,7 +224,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -288,6 +241,7 @@
           <caret line="148" column="33" selection-start-line="148" selection-start-column="33" selection-end-line="148" selection-end-column="33" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#3834#3895#0" />
           </folding>
         </state>
       </provider>
@@ -305,6 +259,7 @@
           <caret line="121" column="34" lean-forward="true" selection-start-line="121" selection-start-column="34" selection-end-line="121" selection-end-column="34" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#3834#3895#0" />
           </folding>
         </state>
       </provider>
@@ -322,6 +277,7 @@
           <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#3834#3895#0" />
           </folding>
         </state>
       </provider>
@@ -347,17 +303,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/file_creator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="1377">
+          <caret line="81" column="42" lean-forward="true" selection-start-line="81" selection-start-column="42" selection-end-line="81" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
-          <caret line="148" column="33" selection-start-line="148" selection-start-column="33" selection-end-line="148" selection-end-column="33" />
+        <state relative-caret-position="430">
+          <caret line="154" column="75" lean-forward="true" selection-start-line="154" selection-start-column="75" selection-end-line="154" selection-end-column="75" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#3834#3895#0" />
           </folding>
         </state>
       </provider>

@@ -38,12 +38,13 @@ async def on_ready():
 @client.event
 async def on_member_join(ctx, member):
     await client.send_message(ctx.message.channel, "Welcome bitch ass nigga" + str(member))
-    file_creator.add_user(str(member))
+
 
 @client.event
 async def on_member_leave(ctx, member):
     await client.send_message(ctx.message.channel, "Bye bitch ass nigga" + str(member))
     file_creator.remove_user(str(member))
+
 
 @client.command(pass_context=True)
 async def img(ctx, *args):
@@ -120,12 +121,7 @@ async def info(ctx):
 
 @client.command(pass_context=True)
 async def user_reset(ctx):
-    member_list = []
-    members = ctx.message.server.members
-    file_creator.remove_files() # remove all files in user folder
-    for member in members:
-        member_list.append(str(member.name))
-    file_creator.add_users(member_list)
+    file_creator.remove_files()  # remove all files in user folder
 
 
 @client.command(pass_context=True)
@@ -140,17 +136,23 @@ async def start(ctx, company_name):
 async def vc(ctx):
     sender = str(ctx.message.author)
     s = sender.split("#")
-    offer_list=[]
+    offer_list = []
+
     for i in range(3):
-        money = randint(1000000, 3000000, 1000)
+        money = randint(1000000, 3000000)
         choose_vc = choice(vc_list)
-        percentage = randint(5,20)
-        offer_list.append("%s: $%s, %%s" % (choose_vc, money, percentage))
-    embed = discord.Embed(title="", description=":))))))))", color=0xeee657)
+        percentage = randint(5, 20)
+        offer_list.append("%s: $%d, %d\n" % (choose_vc, money, percentage))
+
+    embed = discord.Embed(title="VC Offers", description="Choose Wisely", color=0xeee657)
     embed.add_field(name='Offer 1:', value=offer_list[0])
     embed.add_field(name='Offer 2:', value=offer_list[1])
     embed.add_field(name='Offer 3:', value=offer_list[2])
-    await client.send_message(destination=ctx.message.channel, embed=embed)
+
+    # save the offers
+    # save that they received offers
+    # make it an if else to see if they have offers or not.
+    await client.send_message(destination=ctx.message.channel, embed=embed)+
 # RUN
 if __name__ == "__main__":
     client.run('NDQ2NzA1ODE5OTAwMTgyNTQ4.DeCDFA.7YyurilMYe_Tb7w4BzrQCyL3iyE')
