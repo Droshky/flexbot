@@ -4,6 +4,55 @@
     <list default="true" id="ade6d891-040d-421c-8f8f-e00c5768351f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-BOEN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-BibleBot.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Bodyslambear.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Chaotic_aF_.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Doc-1015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-FishDicks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Jacob.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Jimmy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-JoJo 2; Electric Boogaloo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Logan.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-MagiicPants.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Marcello.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Marv.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-MightyMelon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Mild Bobby Sauce.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Mr.Sleepless.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-NicoMane.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Oktoberfest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-OwO.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Owl Head Sniper.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-P!NK.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Pokécord.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Purpl3_l0G1k.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-REDRRUSSIAN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Realest Chigga.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Rythm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Swiff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-TylerDevAccount.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-UNCY IROH.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-UnbelievaBoat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-UnicodeUsers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-UnrL_Poison.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-Woody.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-amasa aina.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-bluebuddha74.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-burgerking.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-captain.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-castrated.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-drosh.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-fiona.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-jamie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-kebab.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-og Mudbone.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-reindeergames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-statutoryraping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-whsky..txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-𝕕𝕨𝕚𝕤𝕖.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/user_bank/bank-𝕸𝖊𝖒𝖊.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_creator.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_creator.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +66,8 @@
       <file leaf-file-name="file_creator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/file_creator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="918">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
             </state>
           </provider>
         </entry>
@@ -29,18 +75,10 @@
       <file leaf-file-name="bot.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-35">
-              <caret line="32" column="38" lean-forward="true" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+            <state relative-caret-position="635">
+              <caret line="148" column="33" selection-start-line="148" selection-start-column="33" selection-end-line="148" selection-end-column="33" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
-                <element signature="e#771#795#0" />
-                <element signature="e#874#988#0" />
-                <element signature="e#975#1760#0" />
-                <element signature="e#1814#2017#0" />
-                <element signature="e#2073#2290#0" />
-                <element signature="e#2339#2520#0" />
-                <element signature="e#2583#3430#0" />
-                <element signature="e#3499#3734#0" />
               </folding>
             </state>
           </provider>
@@ -63,8 +101,8 @@
       <list>
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/file creator.py" />
-        <option value="$PROJECT_DIR$/bot.py" />
         <option value="$PROJECT_DIR$/file_creator.py" />
+        <option value="$PROJECT_DIR$/bot.py" />
       </list>
     </option>
   </component>
@@ -87,11 +125,6 @@
               <item name="FLEXBOOT" type="b2602c69:ProjectViewProjectNode" />
               <item name="FLEXBOOT" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="FLEXBOOT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FLEXBOOT" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -100,6 +133,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -139,6 +173,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="file_creator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FLEXBOOT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_creator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FLEXBOOT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,10 +212,12 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.bot" />
+      <item itemvalue="Python.file_creator" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.bot" />
+        <item itemvalue="Python.file_creator" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -181,20 +235,28 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2528978" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33769062" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="bottom" auto_hide="true" id="Event Log" order="7" sideWeight="0.50052685" side_tool="true" type="SLIDING" weight="0.33442265" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32897604" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" weight="0.33442265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -213,67 +275,89 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file creator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/user_bank/bank-bluebuddha74.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/file_creator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="918">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-35">
-          <caret line="32" column="38" lean-forward="true" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+        <state relative-caret-position="2516">
+          <caret line="148" column="33" selection-start-line="148" selection-start-column="33" selection-end-line="148" selection-end-column="33" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#771#795#0" />
-            <element signature="e#874#988#0" />
-            <element signature="e#975#1760#0" />
-            <element signature="e#1814#2017#0" />
-            <element signature="e#2073#2290#0" />
-            <element signature="e#2339#2520#0" />
-            <element signature="e#2583#3430#0" />
-            <element signature="e#3499#3734#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_creator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="121" column="34" lean-forward="true" selection-start-line="121" selection-start-column="34" selection-end-line="121" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_creator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$PROJECT_DIR$/file creator.py" />
+    <entry file="file://$PROJECT_DIR$/data/user_bank/bank-bluebuddha74.txt" />
+    <entry file="file://$PROJECT_DIR$/data/corp_data/bank-rfm.txt" />
+    <entry file="file://$PROJECT_DIR$/data/businessdata/Bodyslambear/user" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/businessdata/drosh/user.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/businessdata/drosh/business.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_creator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="148" column="33" selection-start-line="148" selection-start-column="33" selection-end-line="148" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>

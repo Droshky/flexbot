@@ -1,11 +1,19 @@
 import discord
 from discord.ext.commands import Bot
 import requests
-from random import randint
+from random import randint, choice
 import tweepy
 import urllib
 import os
 import file_creator
+
+# init of random things:
+vc_list = [
+    'Rich Bois Inc.',
+    'Aristo LLC',
+    'Copper Coin Corp.'
+]
+
 
 # init of tweepy
 auth = tweepy.OAuthHandler(consumer_key="N2V8HohQGHk95x4YIyPFbMQT0",
@@ -27,10 +35,15 @@ async def on_ready():
     print("-- Connected --")
 
 
-@client.event(pass_context=True)
+@client.event
 async def on_member_join(ctx, member):
-    await client.send_message(ctx.message.channel,"Welcome bitch ass nigga" + str(member))
+    await client.send_message(ctx.message.channel, "Welcome bitch ass nigga" + str(member))
     file_creator.add_user(str(member))
+
+@client.event
+async def on_member_leave(ctx, member):
+    await client.send_message(ctx.message.channel, "Bye bitch ass nigga" + str(member))
+    file_creator.remove_user(str(member))
 
 @client.command(pass_context=True)
 async def img(ctx, *args):
@@ -97,11 +110,9 @@ async def info(ctx):
 
     # give info about you here
     embed.add_field(name="Author", value="drosh boiiii")
-
     # Shows the number of servers the bot is member of.
     embed.add_field(name="Server count", value=f"{server.member_count}")
-
-    # give users a link to invite thsi bot to their server
+    # give users a link to invite this bot to their server-
     embed.add_field(name="Invite", value="https://discordapp.com/api/oauth2/authorize?client_id=446705819900182548&permissions=8&redirect_uri=https%3A%2F%2Fdiscordapp.com&response_type=code&scope=identify%20connections%20email%20guilds%20rpc.api%20gdm.join%20guilds.join%20rpc%20messages.read%20webhook.incoming%20rpc.notifications.read%20bot")
 
     await client.send_message(destination=channel, embed=embed)
@@ -117,6 +128,29 @@ async def user_reset(ctx):
     file_creator.add_users(member_list)
 
 
+@client.command(pass_context=True)
+async def start(ctx, company_name):
+    sender = str(ctx.message.author)
+    s = sender.split("#")
+    message = file_creator.create_company(s[0], company_name)
+    await client.send_message(destination=ctx.message.channel, content=message)
+
+
+@client.command(pass_context=True)
+async def vc(ctx):
+    sender = str(ctx.message.author)
+    s = sender.split("#")
+    offer_list=[]
+    for i in range(3):
+        money = randint(1000000, 3000000, 1000)
+        choose_vc = choice(vc_list)
+        percentage = randint(5,20)
+        offer_list.append("%s: $%s, %%s" % (choose_vc, money, percentage))
+    embed = discord.Embed(title="", description=":))))))))", color=0xeee657)
+    embed.add_field(name='Offer 1:', value=offer_list[0])
+    embed.add_field(name='Offer 2:', value=offer_list[1])
+    embed.add_field(name='Offer 3:', value=offer_list[2])
+    await client.send_message(destination=ctx.message.channel, embed=embed)
 # RUN
 if __name__ == "__main__":
     client.run('NDQ2NzA1ODE5OTAwMTgyNTQ4.DeCDFA.7YyurilMYe_Tb7w4BzrQCyL3iyE')
