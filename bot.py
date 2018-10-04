@@ -152,7 +152,7 @@ async def vc(ctx):
     # save the offers
     # save that they received offers
     # make it an if else to see if they have offers or not.
-    await client.send_message(destination=ctx.message.channel, embed=embed)+
+    await client.send_message(destination=ctx.message.channel, embed=embed)
 # RUN
 if __name__ == "__main__":
     client.run('NDQ2NzA1ODE5OTAwMTgyNTQ4.DeCDFA.7YyurilMYe_Tb7w4BzrQCyL3iyE')
